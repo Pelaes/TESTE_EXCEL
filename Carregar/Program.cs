@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-//fala rapaziada...
+
 namespace Carregar
 {
     static class Program
@@ -14,6 +14,9 @@ namespace Carregar
         [STAThread]
         static void Main()
         {
+            //fala rapaziada...
+            //teste git
+            //da hora...
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
