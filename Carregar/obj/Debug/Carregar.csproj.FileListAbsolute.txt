@@ -8,3 +8,14 @@ c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.csproj.Genera
 c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.csproj.CoreCompileInputs.cache
 c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.exe
 c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.pdb
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\bin\Debug\Carregar.exe.config
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\bin\Debug\Carregar.exe
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\bin\Debug\Carregar.pdb
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\obj\Debug\Carregar.csprojResolveAssemblyReference.cache
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\obj\Debug\Carregar.Form1.resources
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\obj\Debug\Carregar.Properties.Resources.resources
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\obj\Debug\Carregar.csproj.GenerateResource.Cache
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\obj\Debug\Carregar.csproj.CoreCompileInputs.cache
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\obj\Debug\Carregar.exe
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\obj\Debug\Carregar.pdb
+C:\Users\Marcelo\Desktop\PROJETOS Double LM\Projeto Excel\Carregar\Carregar\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
