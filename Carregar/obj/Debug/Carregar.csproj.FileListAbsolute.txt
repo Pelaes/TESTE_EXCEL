@@ -1,0 +1,10 @@
+c:\users\marcelo\Source\repos\Carregar\Carregar\bin\Debug\Carregar.exe.config
+c:\users\marcelo\Source\repos\Carregar\Carregar\bin\Debug\Carregar.exe
+c:\users\marcelo\Source\repos\Carregar\Carregar\bin\Debug\Carregar.pdb
+c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.csprojResolveAssemblyReference.cache
+c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.Form1.resources
+c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.Properties.Resources.resources
+c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.csproj.GenerateResource.Cache
+c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.csproj.CoreCompileInputs.cache
+c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.exe
+c:\users\marcelo\Source\repos\Carregar\Carregar\obj\Debug\Carregar.pdb
